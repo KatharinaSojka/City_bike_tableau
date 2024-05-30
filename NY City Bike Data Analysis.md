@@ -7,7 +7,8 @@ This analysis examines bike-sharing trip data to identify trends and patterns. K
 ## Most Popular Stations During Chosen Period
 
 - **Time period**: December 2023 - January 2024
-- **Most Pupular Stations for Starting and Ending a Journey**: 
+- **Most Pupular Stations for Starting and Ending a Journey**:
+- 
         1. Forsyth St & Broome St - Total Usage 42578 Trips
   
         2. Delancey St & Eldridge St - Total Usage 38146 Trips
