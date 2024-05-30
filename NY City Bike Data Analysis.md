@@ -13,7 +13,7 @@ This analysis examines bike-sharing trip data to identify trends and patterns. K
         3. W 21 St & 6 Ave - Total Usage 35174 Trips 
 
 City Bike is mostly used in Manhattan, to a lesser degree in Brooklyn or Queens.
-### Choosing one of the most popular station to start the trip, map will show chosen station accordingly ###
+### >>>Choosing one of the most popular station to start the trip, map will show chosen station accordingly ###
 
 ## Proportions of Customer Types
 
@@ -33,7 +33,7 @@ Casual Users spend more time on their trips, however they do not cover longer di
 
 - **Peak hours**: 7 AM - 8 AM and 4 PM - 6 PM
 
-### You can filter graphs using "Rides by week". Choosing specific day of a week, hourly usage and monthly usage will adjust accordingly ###
+### >>>You can filter graphs using "Rides by week". Choosing specific day of a week, hourly usage and monthly usage will adjust accordingly ###
 
 ## Usage of Electro bikes 
 
